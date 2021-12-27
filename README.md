@@ -43,7 +43,7 @@ Link Dataset : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 #Kelas datasetnya meliputi :
 -Normal
-Pneumonia
+-Pneumonia
 
 ## Screenshots
 
