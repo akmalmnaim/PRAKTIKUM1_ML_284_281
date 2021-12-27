@@ -66,8 +66,7 @@ Pneumonia
   ** fill mode : nearest
   \*\* color mode : RGB
 - hyper parameter : Optimizer(adam), learningrate(0,000001), loss(binary_crossentrophy)
-- jumlah epoch : 100
-- hasil akurasi : 0.85 dengan precision(0.98), recall(0.86), f1-score(0.92)
+
 
 ## Model :
 
